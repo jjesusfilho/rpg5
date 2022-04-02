@@ -22,3 +22,6 @@ stf_download_sheet(detalhes$incidente, "data-raw/andamento")
 
 andamento <- read_stf_docket_sheet(path = "data-raw/andamento")
 
+
+
+
